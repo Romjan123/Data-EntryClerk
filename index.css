@@ -1,8 +1,15 @@
  @import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;1,300&family=Oswald:wght@200;300;400&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Playball&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Asap+Condensed:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&family=Playball&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500;562;600;700&display=swap');
  *{
 	margin:0;
 	padding:0;
 	font-family:sans-serif;
+	  box-sizing:border-box;
+    text-decoration: none;
+    list-style: none;
 }
 .hero{
 	position: relative;
@@ -84,3 +91,150 @@ position: absolute;
 .images:hover .boys{
 	left:45%;
 }
+/* start foter section*/
+#foter-Section{
+    width: 100%;
+    height:365px;
+    background:#1A1364;
+    position: relative;
+}
+.main-foter{
+    width: 320px;
+    position: relative;
+    display: block;
+    line-height: 25px;
+    color: white;
+}
+.main-foter h3{
+    text-transform: uppercase;
+    width: 122px;
+    position: absolute;
+    top: 55px;
+    left: 50px;
+    letter-spacing: 2px;
+ } 
+.main-foter h4 {
+    position: absolute;
+    top: 115px;
+    left: 50px;
+    width: 230px;
+    letter-spacing: 2px;
+}
+.main-foter p {
+    position: absolute;
+    top: 155px;
+    left: 55px;
+    width: 366px;
+    color: #7b7b7b;
+    text-align: justify;
+    text-transform: capitalize;
+}
+.main-foter h3 span{
+    border-bottom: 2px solid orangered;
+}
+.com {
+    position: absolute;
+    top: 55px;
+    left: 530px;
+}
+.com h3{
+    text-transform: uppercase;
+    color: white;
+    letter-spacing: 2px;
+}
+.com h3 span{
+    border-bottom: 2px solid orangered;
+}
+.contract{
+    position: absolute;
+    top:55px;
+    left:950px;
+    line-height: 30px;
+    width:380px;
+}
+.contract h3{
+    text-transform: uppercase;
+    color: white;
+}
+.contract h3 span{
+    border-bottom: 2px solid orangered;
+    letter-spacing: 2px;
+}
+.contract h4{
+    color: wheat;
+    line-height:100px;
+    font-size:22px;
+    letter-spacing: 2px;
+    font-weight: bold;
+    position: relative;
+}
+.contract h5{
+    font-size: 15px;
+    color: wheat;
+    top:85px;
+    left:90px;
+    letter-spacing: 2px;
+    position: absolute;
+}
+sapn {
+    font-size: 15px;
+    letter-spacing: 2px;
+    text-transform: capitalize;
+}
+.contract h2{
+        color: wheat;
+        text-transform: capitalize;
+}
+.contract h2 span {
+    font-size:20px;
+    text-transform: lowercase;
+}
+.icon-links {
+    padding: 60px 35px;
+    width:250px;
+}
+.faceBook,
+ .twitter,
+ .yahoo{
+    border: none;
+    padding: 6px;
+    font-size: 2rem;
+    border-radius: 10px;
+    background: #823315eb;
+    margin-right: 9px;
+    transition:0.7s;
+ }
+.yahoo:hover{
+    transform: scale(1.3);
+    background: white;
+}
+.faceBook:hover{
+    transform: scale(1.3);
+    background: white;
+}
+.twitter:hover{
+    transform: scale(1.3);
+    background: white;
+}
+#Details{
+    background:#1a1554;
+    height: 100px;
+    width: 100%;
+    text-align: center;
+    border-top: 2px solid #3a3a3a;
+    color: white;
+}
+#Details h5{
+    font-size:17px;
+    text-transform: capitalize;
+    padding-top: 30px;
+    letter-spacing: 2px;
+    box-shadow: 3px 13px 10 burlywood;
+}
+#Details h6{
+    text-transform: uppercase;
+    padding: 10px;
+    font-size: 15px;
+    letter-spacing: 2px;
+}
+/*End foter section*/
