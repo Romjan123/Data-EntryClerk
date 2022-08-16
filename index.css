@@ -103,7 +103,7 @@ position: absolute;
     position: relative;
     display: block;
     line-height: 25px;
-    color: white;
+    color:#48169b;
 }
 .main-foter h3{
     text-transform: uppercase;
@@ -139,7 +139,7 @@ position: absolute;
 }
 .com h3{
     text-transform: uppercase;
-    color: white;
+    color:#48169b;
     letter-spacing: 2px;
 }
 .com h3 span{
