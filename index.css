@@ -161,21 +161,23 @@ position: absolute;
     border-bottom: 2px solid orangered;
     letter-spacing: 2px;
 }
-.contract h4{
-    color:#9f4f36;
-    line-height:100px;
-    font-size:22px;
+.contract h4 {
+    color: #9f4f36;
+    line-height: 95px;
+    font-size: 22px;
     letter-spacing: 2px;
     font-weight: bold;
     position: relative;
+    text-transform: uppercase;
 }
-.contract h5{
+.contract h5 {
     font-size: 15px;
-    color:#071a04;
-    top:85px;
-    left:90px;
+    color: #071a04;
+    top: 100px;
+    left: 90px;
     letter-spacing: 2px;
     position: absolute;
+    padding-left: 5px;
 }
 sapn {
     font-size: 15px;
