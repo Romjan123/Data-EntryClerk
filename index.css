@@ -119,13 +119,14 @@ position: absolute;
     left: 50px;
     width: 230px;
     letter-spacing: 2px;
+    color:#28329d;
 }
 .main-foter p {
     position: absolute;
     top: 155px;
     left: 55px;
     width: 366px;
-    color: #7b7b7b;
+    color:#161111;
     text-align: justify;
     text-transform: capitalize;
 }
@@ -161,7 +162,7 @@ position: absolute;
     letter-spacing: 2px;
 }
 .contract h4{
-    color: wheat;
+    color:#9f4f36;
     line-height:100px;
     font-size:22px;
     letter-spacing: 2px;
@@ -170,7 +171,7 @@ position: absolute;
 }
 .contract h5{
     font-size: 15px;
-    color: wheat;
+    color:#071a04;
     top:85px;
     left:90px;
     letter-spacing: 2px;
@@ -180,9 +181,11 @@ sapn {
     font-size: 15px;
     letter-spacing: 2px;
     text-transform: capitalize;
+    color: #071a04;
+}
 }
 .contract h2{
-        color: wheat;
+        color:#12100c;
         text-transform: capitalize;
 }
 .contract h2 span {
@@ -222,7 +225,7 @@ sapn {
     width: 100%;
     text-align: center;
     border-top: 2px solid #9297a1;
-    color: white;
+    color:#581313;
 }
 #Details h5{
     font-size:17px;
