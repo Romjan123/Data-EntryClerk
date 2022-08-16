@@ -194,6 +194,14 @@ sapn {
     font-size:20px;
     text-transform: lowercase;
 }
+.phone{
+	font-family: monospace;
+    color: #0e3a4e;
+}
+.mail{
+	font-family: monospace;
+    color: #0e3a4e;
+}
 .icon-links {
     padding: 60px 35px;
     width:250px;
