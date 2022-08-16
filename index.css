@@ -146,6 +146,9 @@ position: absolute;
 .com h3 span{
     border-bottom: 2px solid orangered;
 }
+.icon-links{
+
+}
 .contract{
     position: absolute;
     top:55px;
@@ -188,13 +191,13 @@ sapn {
 }
 .contract h2{
     color: #6189a1;
-    font-size: 15px;
+    font-size:15px;
     letter-spacing: 3px;
     text-transform: uppercase;
     font-family: cursive;
 }
 .contract h2 span {
-    font-size:15px;
+    font-size:12px;
     text-transform: lowercase;
     color:#3f1e76;
     font-family: inherit;
@@ -203,10 +206,12 @@ span.phone {
     font-family:none;
     letter-spacing:2px;
     padding:5px;
+	font-size:15px;
 span.mail {
     font-family:none;
     letter-spacing:2px;
     padding:5px;
+	font-size:15px;
 }
 
 .icon-links {
