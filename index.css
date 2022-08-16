@@ -189,8 +189,9 @@ sapn {
         text-transform: capitalize;
 }
 .contract h2 span {
-    font-size:20px;
+    font-size:15px;
     text-transform: lowercase;
+    color:#3f1e76;
 }
 .icon-links {
     padding: 60px 35px;
