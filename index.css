@@ -95,7 +95,7 @@ position: absolute;
 #foter-Section{
     width: 100%;
     height:365px;
-    background:linear-gradient(to bottom, #9ebbcb, transparent);
+    background:#1A1364;
     position: relative;
 }
 .main-foter{
@@ -103,7 +103,7 @@ position: absolute;
     position: relative;
     display: block;
     line-height: 25px;
-    color:#48169b;
+    color: white;
 }
 .main-foter h3{
     text-transform: uppercase;
@@ -119,14 +119,13 @@ position: absolute;
     left: 50px;
     width: 230px;
     letter-spacing: 2px;
-    color:#28329d;
 }
 .main-foter p {
     position: absolute;
     top: 155px;
     left: 55px;
     width: 366px;
-    color:#161111;
+    color: #7b7b7b;
     text-align: justify;
     text-transform: capitalize;
 }
@@ -140,14 +139,11 @@ position: absolute;
 }
 .com h3{
     text-transform: uppercase;
-    color:#48169b;
+    color: white;
     letter-spacing: 2px;
 }
 .com h3 span{
     border-bottom: 2px solid orangered;
-}
-.icon-links{
-
 }
 .contract{
     position: absolute;
@@ -158,62 +154,41 @@ position: absolute;
 }
 .contract h3{
     text-transform: uppercase;
-    color:#48169b;
+    color: white;
 }
 .contract h3 span{
     border-bottom: 2px solid orangered;
     letter-spacing: 2px;
 }
-.contract h4 {
-    color: #9f4f36;
-    line-height: 95px;
-    font-size:15px;
+.contract h4{
+    color: wheat;
+    line-height:100px;
+    font-size:22px;
     letter-spacing: 2px;
     font-weight: bold;
     position: relative;
-    text-transform: uppercase;
 }
-.contract h5 {
-    font-size:12px;
-    color: #071a04;
-    top: 100px;
-    left: 90px;
+.contract h5{
+    font-size: 15px;
+    color: wheat;
+    top:85px;
+    left:90px;
     letter-spacing: 2px;
     position: absolute;
-    padding-left: 5px;
 }
 sapn {
-    font-size:12px;
-    letter-spacing:2px;
-    text-transform:capitalize;
-    color:#071a04;
-}
+    font-size: 15px;
+    letter-spacing: 2px;
+    text-transform: capitalize;
 }
 .contract h2{
-    color: #6189a1;
-    font-size:15px;
-    letter-spacing: 3px;
-    text-transform: uppercase;
-    font-family: cursive;
+        color: wheat;
+        text-transform: capitalize;
 }
 .contract h2 span {
-    font-size:12px;
+    font-size:20px;
     text-transform: lowercase;
-    color:#3f1e76;
-    font-family: inherit;
 }
-span.phone {
-    font-family:none;
-    letter-spacing:2px;
-    padding:5px;
-	font-size:15px;
-span.mail {
-    font-family:none;
-    letter-spacing:2px;
-    padding:5px;
-	font-size:15px;
-}
-
 .icon-links {
     padding: 60px 35px;
     width:250px;
@@ -225,7 +200,7 @@ span.mail {
     padding: 6px;
     font-size: 2rem;
     border-radius: 10px;
-    background: #a7afb5;
+    background: #823315eb;
     margin-right: 9px;
     transition:0.7s;
  }
@@ -242,12 +217,12 @@ span.mail {
     background: white;
 }
 #Details{
-    background:linear-gradient(to top, #0818bf, transparent);
+    background:#1a1554;
     height: 100px;
     width: 100%;
     text-align: center;
-    border-top: 2px solid #9297a1;
-    color:#581313;
+    border-top: 2px solid #3a3a3a;
+    color: white;
 }
 #Details h5{
     font-size:17px;
