@@ -95,7 +95,7 @@ position: absolute;
 #foter-Section{
     width: 100%;
     height:365px;
-    background:#1A1364;
+    background: linear-gradient(to bottom, #9ebbcb, transparent);
     position: relative;
 }
 .main-foter{
@@ -217,11 +217,11 @@ sapn {
     background: white;
 }
 #Details{
-    background:#1a1554;
+    background:linear-gradient(to top, #0f8f9f, transparent);
     height: 100px;
     width: 100%;
     text-align: center;
-    border-top: 2px solid #3a3a3a;
+    border-top: 2px solid #49aab6;
     color: white;
 }
 #Details h5{
