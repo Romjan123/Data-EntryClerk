@@ -164,14 +164,14 @@ position: absolute;
 .contract h4 {
     color: #9f4f36;
     line-height: 95px;
-    font-size: 22px;
+    font-size:15px;
     letter-spacing: 2px;
     font-weight: bold;
     position: relative;
     text-transform: uppercase;
 }
 .contract h5 {
-    font-size: 15px;
+    font-size:12px;
     color: #071a04;
     top: 100px;
     left: 90px;
@@ -180,15 +180,15 @@ position: absolute;
     padding-left: 5px;
 }
 sapn {
-    font-size: 15px;
-    letter-spacing: 2px;
-    text-transform: capitalize;
-    color: #071a04;
+    font-size:12px;
+    letter-spacing:2px;
+    text-transform:capitalize;
+    color:#071a04;
 }
 }
 .contract h2{
     color: #6189a1;
-    font-size: 18px;
+    font-size: 15px;
     letter-spacing: 3px;
     text-transform: uppercase;
     font-family: cursive;
