@@ -222,19 +222,23 @@ sapn {
     width: 100%;
     text-align: center;
     border-top: 2px solid #49aab6;
-    color: white;
+    color:#2e2121;
 }
 #Details h5{
-    font-size:17px;
+    font-size:15px;
+    font-family: cursive;
     text-transform: capitalize;
     padding-top: 30px;
+	font-weight:500;
     letter-spacing: 2px;
     box-shadow: 3px 13px 10 burlywood;
 }
 #Details h6{
     text-transform: uppercase;
     padding: 10px;
-    font-size: 15px;
+    font-size: 17px;
     letter-spacing: 2px;
+    font-family: math;
+    font-weight: bold;
 }
 /*End foter section*/
