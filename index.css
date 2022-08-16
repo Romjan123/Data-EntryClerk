@@ -186,17 +186,19 @@ sapn {
     text-transform: capitalize;
 }
 .contract h2{
-            color: #4eacb8;
+     color: #4eacb8;
     text-transform: capitalize;
-    font-weight: 300;
+    font-weight: 500;
+    font-size: 15px;
 }
 .contract h2 span {
-    font-size:20px;
+    font-size:12px;
     text-transform: lowercase;
 }
 .phone{
 	font-family: monospace;
     color: #0e3a4e;
+	font-si
 }
 .mail{
 	font-family: monospace;
