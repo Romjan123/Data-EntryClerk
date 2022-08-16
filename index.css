@@ -167,13 +167,13 @@ position: absolute;
 .contract h4{
     color:#48169b;
     line-height:100px;
-    font-size:15px;
+    font-size:20px;
     letter-spacing: 2px;
     font-weight: bold;
     position: relative;
 }
 .contract h5{
-    font-size: 13px;
+    font-size: 16px;
     color:#251a36;
     top:95px;
     left:70px;
@@ -181,18 +181,18 @@ position: absolute;
     position: absolute;
 }
 sapn {
-    font-size: 12px;
-    letter-spacing: 2px;
+    font-size: 15px;
+    letter-spacing:2px;
     text-transform: capitalize;
 }
 .contract h2{
      color: #4eacb8;
     text-transform: capitalize;
     font-weight: 500;
-    font-size: 15px;
+    font-size:20px;
 }
 .contract h2 span {
-    font-size:12px;
+    font-size:15px;
     text-transform: lowercase;
 }
 .phone{
